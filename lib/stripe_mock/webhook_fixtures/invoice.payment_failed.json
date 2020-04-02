@@ -24,7 +24,7 @@
             "currency": "usd",
             "proration": true,
             "period": {
-              "start": 1393765661,
+              "start_date": 1393765661,
               "end": 1393765661
             },
             "quantity": null,
@@ -41,7 +41,7 @@
             "currency": "usd",
             "proration": true,
             "period": {
-              "start": 1393765661,
+              "start_date": 1393765661,
               "end": 1393765661
             },
             "quantity": null,
@@ -58,7 +58,7 @@
             "currency": "usd",
             "proration": false,
             "period": {
-              "start": 1383759053,
+              "start_date": 1383759053,
               "end": 1386351053
             },
             "quantity": 1,

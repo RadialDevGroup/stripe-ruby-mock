@@ -25,7 +25,7 @@
             "currency": "usd",
             "proration": false,
             "period": {
-              "start": 1383759042,
+              "start_date": 1383759042,
               "end": 1386351042
             },
             "quantity": 1,

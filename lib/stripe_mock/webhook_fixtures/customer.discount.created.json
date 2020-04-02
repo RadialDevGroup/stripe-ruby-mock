@@ -19,7 +19,7 @@
         "times_redeemed": 0,
         "duration_in_months": 3
       },
-      "start": 1381080505,
+      "start_date": 1381080505,
       "object": "discount",
       "customer": "cus_00000000000000",
       "end": 1389029305
